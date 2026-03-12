@@ -1,0 +1,51 @@
+Name,Department,Year,Technical Skills,Research Areas,Intended Career Path
+Adithya K,AI & DS,3,"Python, Machine Learning, PyTorch, SQL","Computer Vision, Reinforcement Learning",AI Researcher
+Meera Nair,CSE,4,"Java, Spring Boot, React, MySQL","Distributed Systems, Blockchain",Software Engineer
+Rohan Das,AI & DS,2,"Python, Scikit-Learn, Pandas, Matplotlib","Natural Language Processing, Ethics in AI",Data Scientist
+Sanya V,ECE,3,"C++, Embedded Systems, Verilog","Edge AI, Robotics",Hardware Engineer
+Ananya P,CSE,3,"Python, TensorFlow, Keras, Django","Deep Learning, Healthcare AI",ML Engineer
+Vikram S,AI & DS,4,"Python, R, Spark, Tableau","Big Data Analytics, Predictive Modeling",Analyst
+Ishaan M,CSE,2,"C, Python, HTML/CSS, JS","Web Intelligence, Graph Mining",Full Stack Developer
+Kavya R,AI & DS,3,"Python, NLP, Transformers, HuggingFace","Conversational AI, Linguistics",AI specialist
+Rahul G,ECE,4,"MATLAB, Python, Signal Processing","Wireless Communications, Signal Processing",Research Engineer
+Sneha T,CSE,3,"JavaScript, Node.js, MongoDB, AWS","Cloud Computing, Serverless Architecture",Cloud Architect
+Arjun B,AI & DS,2,"Python, SQL, PowerBI","Business Intelligence, Marketing Analytics",Data Analyst
+Priya K,CSE,4,"C++, Algorithms, Data Structures","Competitive Programming, Algorithms",Core Dev
+Nikhil J,AI & DS,3,"Python, OpenCV, GANs","Generative Models, Image Synthesis",Creative Technologist
+Anjana M,ECE,3,"Python, Raspberry Pi, Arduino","IoT, Smart Cities",Robotics Engineer
+Varun D,CSE,2,"Python, Flask, SQLite","API Development, Microservices",Backend Dev
+Swati L,AI & DS,4,"Python, PySpark, Hadoop","Data Engineering, ETL Pipelines",Data Engineer
+Abhishek C,CSE,3,"Go, Docker, Kubernetes","Cloud Native, DevOps",DevOps Engineer
+Divya N,AI & DS,2,"Python, Seaborn, Statistics","Statistical Analysis, Experimental Design",Statistician
+Manish P,ECE,4,"C, Linux Kernel, RTOS","Real Time Systems, Embedded Security",Security Researcher
+Shreya H,CSE,3,"TypeScript, Vue.js, Firebase","UI/UX Design, Human Computer Interaction",Frontend Dev
+Kiran W,AI & DS,3,"Python, Scipy, Sympy","Mathematical Optimization, Operations Research",Operations Analyst
+Pooja B,CSE,2,"PHP, Laravel, PostgreSQL","E-commerce Systems, Legacy Systems",System Analyst
+Gautam T,AI & DS,4,"Python, XGBoost, LightGBM","Finance AI, Algorithmic Trading",Quant Researcher
+Meghna S,ECE,3,"Assembly, VHDL, FPGA","VLSI Design, Digital Logic",Silicon Engineer
+Harsh V,CSE,3,"Dart, Flutter, SQL","Mobile Computing, App Security",Mobile Dev
+Ritika J,AI & DS,2,"Python, NLTK, Gensim","Text Analytics, Sentiment Analysis",NLP Engineer
+Siddharth K,CSE,4,"Ruby, Rails, Redis","Web Scaling, Caching Strategies",Web Architect
+Tanvi M,AI & DS,3,"Python, Streamlit, Plotly","Interactive Dashboards, Data Storytelling",Visual Analytics Designer
+Aman R,ECE,3,"Python, ROS, Gazebo","Autonomous Vehicles, Motion Planning",Robotics Scientist
+Jyoti S,CSE,2,"SQL, NoSQL, Neo4j","Graph Databases, Social Media Analysis",Graph Scientist
+Karthik N,AI & DS,4,"Python, MLOps, MLflow","Production ML, Model Monitoring",MLOps Engineer
+Nandini S,CSE,3,"Solidity, Web3.js, Ethereum","Smart Contracts, DeFi",Blockchain Developer
+Rajesh M,AI & DS,2,"Python, Jupyter, Matplotlib","Scientific Computing, Simulation",Research Assistant
+Aparna G,ECE,4,"Verilog, SystemVerilog, UVM","Hardware Verification, ASIC Design",Verification Engineer
+Sanjay B,CSE,3,"Kotlin, Android SDK, Jetpack","Mobile UX, Cross-platform Dev",Android Lead
+Maya T,AI & DS,3,"Python, D3.js, Three.js","Information Visualization, VR/AR",XR Developer
+Akash P,CSE,2,"Java, XML, Android Studio","Software Lifecycle, UI Patterns",Junior Android Dev
+Renu K,AI & DS,4,"Python, Scikit-learn, XGBoost","Churn Prediction, Customer Analytics",Growth Analyst
+Vivek H,ECE,3,"Python, PySerial, I2C","Hardware Interfacing, Sensors",IoT Specialist
+Leila F,CSE,3,"Swift, iOS SDK, CoreData","Mobile Security, UX Research",iOS Developer
+Omkar G,AI & DS,2,"Python, Numpy, Statsmodels","Time Series Analysis, Econometrics",Financial Analyst
+Parul S,CSE,4,"C#, .NET Core, SQL Server","Enterprise software, Architecture",Enterprise Architect
+Saurabh D,AI & DS,3,"Python, Deep Learning, CV","Autonomous Drones, Satellite Imagery",Research Lead
+Kriti L,ECE,3,"MATLAB, Simulink, LabVIEW","Control Systems, Automation",Instrumentation Engineer
+Sameer A,CSE,2,"Python, Beautiful Soup, Selenium","Data Scraping, Automation",Web Scraper
+Shalini R,AI & DS,4,"Python, LangChain, OpenAI API","Generative AI, Large Language Models",Generative AI Engineer
+Yash J,CSE,3,"Rust, WebAssembly, Bevy","High Performance Systems, Game Dev",System Programmer
+Anjali D,AI & DS,2,"Python, K-means, PCA","Unsupervised Learning, Clustering",Data Researcher
+Pranav M,ECE,4,"C, ARM, Assembly","Firmware Development, Low Power Systems",Firmware Engineer
+Esha V,CSE,3,"GraphQL, Apollo, Prisma","Modern API Design, Data Layers",API Architect

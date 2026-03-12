@@ -1,0 +1,14 @@
+langchain-ollama
+streamlit
+pandas
+networkx
+scikit-learn
+plotly
+google-generativeai
+langchain
+langchain-google-genai
+faiss-cpu
+python-dotenv
+matplotlib
+seaborn
+pyvis
