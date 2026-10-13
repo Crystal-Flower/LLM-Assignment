@@ -3,8 +3,13 @@ name = "24053"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
+    "faiss-cpu>=1.13.2",
     "langchain-community>=0.4.1",
     "langchain-ollama>=1.0.1",
+    "networkx>=3.6.1",
+    "plotly>=6.6.0",
+    "scikit-learn>=1.8.0",
+    "streamlit>=1.55.0",
 ]
